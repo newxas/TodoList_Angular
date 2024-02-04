@@ -4,7 +4,10 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 # Instructions for Users
 
-** Type a task in the input field.
-** Click "Add Task" to add the task to the list.
-** Click in a task to mark as complete
-** Click "Delete" to remove a task from the list.
+** Type a task in the input field.  
+
+** Click "Add Task" to add the task to the list.  
+
+** Click in a task to mark as complete  
+
+** Click "Delete" to remove a task from the list.  
